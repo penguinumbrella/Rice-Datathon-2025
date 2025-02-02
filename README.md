@@ -14,7 +14,7 @@ training.xlsx - Contains the original training data
 
 ## Running the notebook:
 In the Jupyter notebook, run: pip install -r "requirements.txt"
-This will install the necessary libraries in order to run the notebook.
+This will install the necessary libraries in order to run the notebook. THe official notebook containing our collective model insights is chevron_official.ipynb
 
 # Gen AI Track: (Go to the GenAI Track Folder)
 
