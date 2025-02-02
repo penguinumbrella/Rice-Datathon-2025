@@ -12,6 +12,10 @@ cailutility2.xlsx - Contains the additional features from external sources
 
 training.xlsx - Contains the original training data
 
+## Running the notebook:
+In the Jupyter notebook, run: pip install -r "requirements.txt"
+This will install the necessary libraries in order to run the notebook.
+
 # Gen AI Track: (Go to the GenAI Track Folder)
 
 chevronGenAi.ipybn - Contains the final code for the Gen AI track
