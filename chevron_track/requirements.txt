@@ -6,3 +6,5 @@ pandas
 numpy
 featuretools
 scikit-learn
+bayesian-optimization
+shap
