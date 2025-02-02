@@ -1,4 +1,4 @@
-# Chevron Track: (Go to the Chevron Track Folder)
+# Chevron Track: (Go to the chevron_track Folder)
 
 chevron_official.ipynb - Contains our final code for Chevron track
 
